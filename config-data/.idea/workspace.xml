@@ -5,16 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="894ef04c-cc10-4e15-8d77-13824cb0c4a5" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/config-data.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ms-catalogo-service.yml" beforeDir="false" afterPath="$PROJECT_DIR$/ms-catalogo-service.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ms-catalogo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ms-catalogo/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ms-config-server/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ms-config-server/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ms-config-server/src/main/java/com/example/msconfigserver/MsConfigServerApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ms-config-server/src/main/java/com/example/msconfigserver/MsConfigServerApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ms-config-server/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../ms-config-server/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ms-registry-server/src/main/java/com/example/msregistryserver/MsRegistryServerApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ms-registry-server/src/main/java/com/example/msregistryserver/MsRegistryServerApplication.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +46,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1693177637530</updated>
-      <workItem from="1693177638712" duration="2285000" />
+      <workItem from="1693177638712" duration="2514000" />
     </task>
     <servers />
   </component>
