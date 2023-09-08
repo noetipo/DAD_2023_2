@@ -3,7 +3,10 @@ server:
 eureka:
   client:
     serviceUrl:
-      defaultZone: ${EUREKA_URI:http://localhost:8090/eureka}
+      defaultZone: http://localhost:8090/eureka
+  instance:
+    hostname: localhost
+    
 spring:
   cloud:
     gateway:
