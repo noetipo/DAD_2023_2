@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="894ef04c-cc10-4e15-8d77-13824cb0c4a5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../ms-gateway-server/ms-gateway-server/src/main/resources/application.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ms-gateway-service.yml" beforeDir="false" afterPath="$PROJECT_DIR$/ms-gateway-service.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ms-cliente/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ms-cliente/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ms-gateway-server/ms-gateway-server/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ms-config-server/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../ms-config-server/src/main/resources/application.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +34,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "registry-server",
+    "git-widget-placeholder": "gateway-server",
     "last_opened_file_path": "C:/Users/noe_tipo/IdeaProjects/DAD_2023_2/config-data",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -57,7 +56,7 @@
       <updated>1693177637530</updated>
       <workItem from="1693177638712" duration="2836000" />
       <workItem from="1694041156255" duration="1409000" />
-      <workItem from="1694177042682" duration="1367000" />
+      <workItem from="1694177042682" duration="2335000" />
     </task>
     <servers />
   </component>
