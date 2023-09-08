@@ -6,10 +6,30 @@
   <component name="ChangeListManager">
     <list default="true" id="894ef04c-cc10-4e15-8d77-13824cb0c4a5" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/ms-gateway-service.yml" beforeDir="false" afterPath="$PROJECT_DIR$/ms-gateway-service.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ms-cliente/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ms-cliente/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ms-config-server/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../ms-config-server/src/main/resources/application.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ms-gateway-server/ms-gateway-server/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ms-gateway-server/ms-gateway-server/pom.xml" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/ms-gateway-service.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ms-cliente/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ms-gateway-server/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ms-gateway-server/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ms-gateway-server/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ms-gateway-server/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ms-gateway-server/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ms-gateway-server/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ms-gateway-server/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ms-gateway-server/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ms-gateway-server/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ms-gateway-server/.idea/ms-gateway-server.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ms-gateway-server/ms-gateway-server/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../ms-gateway-server/ms-gateway-server/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ms-gateway-server/ms-gateway-server/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../ms-gateway-server/ms-gateway-server/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ms-gateway-server/ms-gateway-server/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/../ms-gateway-server/ms-gateway-server/mvnw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ms-gateway-server/ms-gateway-server/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/../ms-gateway-server/ms-gateway-server/mvnw.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ms-gateway-server/ms-gateway-server/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ms-gateway-server/ms-gateway-server/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ms-gateway-server/ms-gateway-server/src/main/java/com/example/msgatewayserver/MsGatewayServerApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ms-gateway-server/ms-gateway-server/src/main/java/com/example/msgatewayserver/MsGatewayServerApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ms-gateway-server/ms-gateway-server/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../ms-gateway-server/ms-gateway-server/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ms-gateway-server/ms-gateway-server/src/test/java/com/example/msgatewayserver/MsGatewayServerApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ms-gateway-server/ms-gateway-server/src/test/java/com/example/msgatewayserver/MsGatewayServerApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ms-registry-server/src/main/java/com/example/msregistryserver/MsRegistryServerApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ms-registry-server/src/main/java/com/example/msregistryserver/MsRegistryServerApplication.java" afterDir="false" />
+>>>>>>> ce7bb54eedbcdcce65497fecfce1fba73b047217
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +56,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "gateway-server",
-    "last_opened_file_path": "C:/Users/noe_tipo/IdeaProjects/DAD_2023_2/config-data",
+    "last_opened_file_path": "C:/Users/VM/Documents/proyectosJava/DAD_2023_2/config-data",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
