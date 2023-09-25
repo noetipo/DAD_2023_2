@@ -1,10 +1,11 @@
 package com.example.mspedido.entity;
 
-import jakarta.persistence.GeneratedValue;
-import jakarta.persistence.GenerationType;
-import jakarta.persistence.Id;
-import jakarta.persistence.Transient;
+import com.example.mspedido.dto.Producto;
+import jakarta.persistence.*;
+import lombok.Data;
 
+@Entity
+@Data
 public class PedidoDetalle {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
@@ -12,7 +13,8 @@ public class PedidoDetalle {
     private Double cantidad;
     private Double precio;
     private Integer productoId;
-
+    @Transient
+    private Producto producto;
     public PedidoDetalle() {
         this.cantidad = (double) 0;
         this.precio = (double) 0;

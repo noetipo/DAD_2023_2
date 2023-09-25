@@ -1,5 +1,6 @@
 package com.example.mspedido.entity;
 
+import com.example.mspedido.dto.Cliente;
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import jakarta.persistence.*;
 import lombok.Data;
@@ -8,6 +9,7 @@ import java.util.List;
 
 @Entity
 @Data
+
 public class Pedido {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
@@ -20,5 +22,8 @@ public class Pedido {
     @OneToMany(fetch = FetchType.LAZY, cascade = CascadeType.ALL)
     @JoinColumn(name = "venta_id")
     private List<PedidoDetalle> detalle;
+
+    @Transient
+    private Cliente cliente;
 
 }
